@@ -3,7 +3,6 @@ import { FaLocationDot, FaMedium } from "react-icons/fa6";
 import { FaPhoneAlt, FaGithub, FaLinkedin } from "react-icons/fa";
 import { FaUniversity } from "react-icons/fa";
 import { FaGraduationCap } from "react-icons/fa6";
-import { FaMedium } from "react-icons/fa";
 
 export const homeData = {
   myImage: "/assets/Profile Pic.webp",
