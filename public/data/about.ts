@@ -1,0 +1,57 @@
+export const aboutMe = {
+  description: [
+    "AI Full Stack Developer | Algoverse AI Research Fellow ’25 | Harvard HVTSP Invitee ’25 | BSc Computing Science & Mathematics, University of Alberta",
+    "Building intelligent, scalable, and user-centric web applications by blending AI innovation with full stack engineering and mathematical rigor.",
+  ],
+  resumePath: "/assets/MirSadatBinRakib_Resume.pdf", 
+  resumeFileNameAfterDownload: "Mir Sadat Bin Rakib Resume.pdf", 
+};
+
+export const technicalSkills: Record<string, string[]> = {
+  "🌐 Frontend": [
+    "React.js",
+    "TypeScript",
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "Tailwind CSS",
+    "Chakra UI",
+    "ShadCN UI",
+    "Redux Toolkit",
+    "Vite",
+    "Chart.js",
+  ],
+  "🖥️ Backend": [
+    "Node.js",
+    "Python",
+    "FastAPI",
+    "Supabase",
+    "Firebase",
+    "REST APIs",
+    "MongoDB",
+  ],
+  "🧠 AI / Automation": [
+    "OpenAI API",
+    "LangChain",
+    "n8n",
+    "HuggingFace",
+    "AI Agents",
+  ],
+  "☁️ Cloud & DevOps": [
+    "AWS",
+    "Vercel",
+    "Netlify",
+    "Docker",
+    "CI/CD",
+    "GitHub Actions",
+    "Heroku",
+  ],
+  "🛠️ Tools": [
+    "Git",
+    "GitHub",
+    "VS Code",
+    "Figma",
+    "Postman",
+    "Slack",
+  ],
+};
