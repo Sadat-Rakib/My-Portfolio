@@ -93,10 +93,10 @@ const AchievementsPage = ({ setPage }: Props) => {
     {
       id: 3,
       title: "Harvard Venture TECH Summer Program",
-      year: "2024",
+      year: "2025",
       issuer: "Harvard University",
       description:
-        "Special Invitee — selected among top 1% of global student innovators for excellence in product and front-end development.",
+        "Special Invitee — selected among top 1% of global student innovators for excellence in product, AI and full-stack development.",
       category: "Special Program",
       icon: FaTrophy,
       color: "red",
