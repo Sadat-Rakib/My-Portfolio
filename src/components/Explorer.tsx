@@ -7,6 +7,7 @@ import HTMLImage from "/assets/html.webp";
 import JSONImage from "/assets/json.webp";
 import CSSImage from "/assets/css.webp";
 import TSImage from "/assets/typescript.webp";
+import ReactImage from "/assets/React-icon.svg.webp";
 
 interface Props {
   selectedPage: string;
@@ -25,6 +26,7 @@ const Explorer = ({ onSelectPage }: Props) => {
       boxSize: "17px",
       Link: "/projects",
     },
+    { Label: "achievements.tsx", Icon: ReactImage, boxSize: "15px", Link: "/achievements" },
     //{ Label: "github.css", Icon: CSSImage, boxSize: "15px", Link: "/github" },
     { Label: "contact.ts", Icon: TSImage, boxSize: "15px", Link: "/contact" },
     { Label: "theme.css", Icon: CSSImage, boxSize: "14px", Link: "/theme" },

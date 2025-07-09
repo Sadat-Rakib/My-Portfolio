@@ -20,6 +20,7 @@ export const technicalSkills: Record<string, string[]> = {
     "Redux Toolkit",
     "Vite",
     "Chart.js",
+    "GSAP",
   ],
   "🖥️ Backend": [
     "Node.js",
@@ -28,11 +29,13 @@ export const technicalSkills: Record<string, string[]> = {
     "Supabase",
     "Firebase",
     "REST APIs",
+    "Langchain.js",
     "MongoDB",
   ],
   "🧠 AI / Automation": [
     "OpenAI API",
-    "LangChain",
+    "Zapier",
+    "Make.com",
     "n8n",
     "HuggingFace",
     "AI Agents",
