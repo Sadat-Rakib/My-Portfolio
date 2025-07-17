@@ -89,7 +89,7 @@ const Home = ({ setPage }: Props) => {
                         color={accentColor}
                         mb={{ base: 6, md: 10 }}
                     >
-                        AI Full Stack Developer | Algoverse AI Research Fellow'25 | Harvard HVTSP Invitee'25 | 
+                        Founder & CEO @CashVA | Algoverse AI Research Fellow ’25 | Harvard HUVTSP ’25 Invitee | Front‑End & UI Engineer |
                     </Text>
                 </Box>
 
