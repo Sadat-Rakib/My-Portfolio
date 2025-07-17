@@ -12,7 +12,7 @@ export const projects = [
     Demo: "https://pixel-pal-nine.vercel.app/",
   },
   {
-    ImageURL: "/assets/VSCode-Themed-portfolio.webp",
+    ImageURL: "/assets/VSCode-Themed-Portfolio.webp",
     Title: "VSCode Themed Portfolio",
     Description: "My personal portfolio with the Visual Studio Code IDE theme.",
     Technologies: ["React", "TypeScript", "Tailwind CSS", "Vite", "Chakra UI"],
