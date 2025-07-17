@@ -15,7 +15,7 @@ export const projects = [
     ImageURL: "/assets/VSCode-Themed-Portfolio.webp",
     Title: "VSCode Themed Portfolio",
     Description: "My personal portfolio with the Visual Studio Code IDE theme.",
-    Technologies: ["React", "TypeScript", "Tailwind CSS", "Vite", "Chakra UI"],
+    Technologies: ["React", "TypeScript", "Tailwind CSS", "Vite", "shadcn ui"],
     Source: "https://github.com/Sadat-Rakib/My-Portfolio",
     Demo: "https://my-portfolio-gbwc.vercel.app/",
   },
