@@ -1,60 +1,57 @@
 export const aboutMe = {
   description: [
-    "AI Full Stack Developer | Algoverse AI Research Fellow ’25 | Harvard HVTSP Invitee ’25 | BSc Computing Science & Mathematics, University of Alberta",
-    "Building intelligent, scalable, and user-centric web applications by blending AI innovation with full stack engineering and mathematical rigor.",
+    "Founder & CEO @CashVA | Algoverse AI Research Fellow ’25 | Harvard HVTSP ’25 | Front‑End & UI Engineer | BSc Computing Science & Mathematics, University of Alberta",
+    "I design and build immersive, high‑performance front‑end experiences. From data‑driven dashboards to interactive 3D scenes, I translate complex AI insights into intuitive, pixel‑perfect interfaces.",
   ],
   resumePath: "/assets/MirSadatBinRakib_Resume.pdf", 
   resumeFileNameAfterDownload: "Mir Sadat Bin Rakib Resume.pdf", 
 };
 
 export const technicalSkills: Record<string, string[]> = {
-  "🌐 Frontend": [
+  "🌐 Frontend & UI": [
     "React.js",
     "TypeScript",
-    "JavaScript",
-    "HTML5",
-    "CSS3",
     "Tailwind CSS",
-    "Chakra UI",
     "ShadCN UI",
+    "Ant Design",
+    "DaisyUI",
     "Redux Toolkit",
-    "Vite",
-    "Chart.js",
+    "TanStack Query",
+    "Liveblocks",
+    "Framer Motion",
     "GSAP",
+    "Motion One",
+    "LottieFiles",
+    "Rive",
+    "Lenis",
+    "Barba.js",
+    "Vite",
+    "WebGL",
+    "Three.js"
   ],
   "🖥️ Backend": [
-    "Node.js",
-    "Python",
-    "FastAPI",
     "Supabase",
     "Firebase",
-    "REST APIs",
-    "Langchain.js",
-    "MongoDB",
   ],
   "🧠 AI / Automation": [
+    "Python",
+    "LangChain.js",
     "OpenAI API",
-    "Zapier",
-    "Make.com",
-    "n8n",
     "HuggingFace",
-    "AI Agents",
+    "n8n",
   ],
   "☁️ Cloud & DevOps": [
-    "AWS",
     "Vercel",
-    "Netlify",
+    "AWS",
     "Docker",
-    "CI/CD",
     "GitHub Actions",
-    "Heroku",
+    "CI/CD"
   ],
   "🛠️ Tools": [
     "Git",
     "GitHub",
-    "VS Code",
-    "Figma",
     "Postman",
-    "Slack",
-  ],
+    "Figma",
+  ]
 };
+
