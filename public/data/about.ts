@@ -1,8 +1,7 @@
 export const aboutMe = {
   description: [
     "Founder & CEO @CashVA | Algoverse AI Research Fellow ’25 | Harvard HVTSP ’25 | AI Full Stack Developer | BSc Computing Science & Mathematics, University of Alberta",
-    "I build modern, end-to-end web applications that combine strong system design with intelligent, AI-assisted features. I design and build full-stack web systems that prioritize performance, usability, and maintainability. Whether it's crafting responsive interfaces, optimizing API workflows, or deploying to production, I focus on shipping code that’s clean, reliable, and built to scale.",
-  ],
+    "I architect and build scalable web applications that seamlessly integrate AI capabilities with robust system design. My focus spans the entire development lifecycle—from designing intuitive user experiences and optimizing backend performance to implementing CI/CD pipelines that ensure reliable production deployments. I ship code that balances technical excellence with business impact."
   resumePath: "/assets/MirSadatBinRakib_Resume.pdf", 
   resumeFileNameAfterDownload: "Mir Sadat Bin Rakib Resume.pdf", 
 };
